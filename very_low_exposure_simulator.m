@@ -1,7 +1,3 @@
-% Simple Monte-Carlo Example for Low Light Image Simulation
-% Robin Jenkin - March 2024
-% NVIDIA
-
 % Tidy Up
 clc; clear all; close all;
 
